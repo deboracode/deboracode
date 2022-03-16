@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development. 
 - 🌱 I’m currently learning HTML5, CSS3 and JS. And then, I wanna learn Ruby on Rails.
 - 💞️ I’m looking to collaborate on ... I don't really know yet.
-- 📫 How to reach me? My email is deboracodewor@gmail.com and my twitter username is deboracode.
+- 📫 How to reach me? My email is deboracodework@gmail.com and my twitter username is deboracode.
 
 <!---
 debvieir/debvieir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
